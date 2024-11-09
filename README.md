@@ -44,12 +44,6 @@ Welcome to **MoviHub**—your one-stop platform for exploring movies, actors, an
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase your app._
-
----
-
 ## 🤝 Contributing
 
 Contributions are always welcome! Here's how you can contribute:
